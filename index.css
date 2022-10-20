@@ -1,0 +1,29 @@
+.press-button {
+    background-color: red;
+    text-emphasis-color: blue;
+    border: none;
+    height: 50px;
+    border-radius: 2px;
+    border-width: 1px;
+    padding-left: 30px;
+    cursor: pointer;
+    vertical-align: top;
+}
+.press-button:hover {
+    background-color: wheat;
+    height: 100px;
+    transition: opacity 0.5s;
+    padding: 10px;
+}
+.press-button:active {
+    background-color: black;
+    opacity: 0.3;
+}
+.text {
+    background-color: rgb(200,0,0);
+}
+.header {
+    height: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
