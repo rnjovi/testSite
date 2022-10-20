@@ -6,8 +6,10 @@
     border-radius: 2px;
     border-width: 1px;
     padding-left: 30px;
+    padding-right: 30px;
     cursor: pointer;
     vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .press-button:hover {
     background-color: wheat;
@@ -20,10 +22,21 @@
     opacity: 0.3;
 }
 .text {
-    background-color: rgb(200,0,0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 .header {
     height: 10px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
+}
+.calculate {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+}
+body  {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
 }
