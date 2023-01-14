@@ -1,0 +1,26 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "Site for playing with web developement\r The address is https://vronhass.github.io/testSite/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vronhass/testSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vronhass/testSite/issues"
+  },
+  "homepage": "https://github.com/vronhass/testSite#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "json2csv": "^5.0.7",
+    "puppeteer": "^19.5.2"
+  }
+}
