@@ -1,1 +1,1 @@
-document.body.innerHTML = "This is content"
+document.body.innerHTML = "This is content";
