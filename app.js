@@ -1,3 +1,4 @@
+/*
 const cheerio = require("cheerio");
 const axios = require("axios");
 
@@ -28,7 +29,7 @@ getCount();
 //document.getElementById("p1").innerHTML = date;
 
 
-/*
+
 // Alternative aphroach
 const puppeteer = require('puppeteer');
 
